@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Raúl 👋<br>¡Bienvenido a mi perfil!<br><br>🧑‍💻 Sobre mí:<br><br>Tengo 23 años y me encanta el desarrollo de software.<br>Apasionado por aprender y crear proyectos útiles y creativos.<br>Con experiencia en JavaScript, HTML, CSS, PHP, Java, entre otros lenguajes.<br>Disfruto resolviendo problemas y explorando nuevas tecnologías.<br><br>🚀 Actualmente trabajando en:<br><br>ARCADE, un proyecto accesible y divertido para la web y dispositivos móviles.<br><br>📚 Intereses:<br><br>Desarrollo web y frameworks modernos.<br>Diseño de interfaces atractivas y funcionales.<br>Espacios interactivos con elementos dinámicos y animados.
+Hola, soy Raúl 👋<br>¡Bienvenido a mi perfil!<br><br>🧑‍💻 Sobre mí:<br><br>Tengo 24 años y me encanta el desarrollo de software.<br>Apasionado por aprender y crear proyectos útiles y creativos.<br>Con experiencia en JavaScript, HTML, CSS, PHP, Java, entre otros lenguajes.<br>Disfruto resolviendo problemas y explorando nuevas tecnologías.<br><br>🚀 Actualmente trabajando en:<br><br>ARCADE, un proyecto accesible y divertido para la web y dispositivos móviles.<br><br>📚 Intereses:<br><br>Desarrollo web y frameworks modernos.<br>Diseño de interfaces atractivas y funcionales.<br>Espacios interactivos con elementos dinámicos y animados.
 
 
 # 💻 Tech Stack:
